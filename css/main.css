@@ -13,7 +13,7 @@
 html, body { height: 100%; }
 
 body {
-  background-color: #DDD;
+  background-color: #bab;
   font: 15px Helvetica, Ariel, sans-serif;
   font-size: small;
   text-align: center;
@@ -139,7 +139,7 @@ ul.posts span {
 }
 
 .post code {
-  border: 1px solid #ddd;
+  border: 1px solid #ada;
   background-color: #fde;
   padding: 0 .2em;
 }
@@ -151,7 +151,7 @@ ul.posts span {
 /* terminal */
 .post pre.terminal {
   border: 1px solid #123;
-  background-color: #eee;
+  background-color: #ade;
   color: #FFF;
 }
 
